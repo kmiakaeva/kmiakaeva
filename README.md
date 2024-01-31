@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kristina
 
-- 🔭 I’m currently study in School 21 Sber
+- 🔭 Currently enrolled as a student at School 21 by Sber
   
 ### Languages and Tools
 
