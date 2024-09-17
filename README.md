@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kristina
 
-- 🔭 Currently enrolled as a student at School 21 by Sber
+- 🔭 Currently enrolled as a student at the Polytechnic University, majoring in Applied Informatics, and also attending School 21 by Sber.
   
 ### Languages and Tools
 
