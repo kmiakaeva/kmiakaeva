@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Kristina!
 
 - 🔭 Currently enrolled as a student at the Polytechnic University, majoring in Applied Informatics.
+- ⚙️ Working at [Doctor Web](https://www.drweb.com/).
 
 ### Main Languages and Tools
 
